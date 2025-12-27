@@ -1,0 +1,6 @@
+tasks:
+  shell:
+    name: Start Bash
+    command: bash
+    triggeredBy:
+      - postDevcontainerStart

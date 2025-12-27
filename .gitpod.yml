@@ -1,3 +1,0 @@
-image: .gitpod.Dockerfile
-tasks:
-- command: bash
